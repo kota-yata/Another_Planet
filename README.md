@@ -4,6 +4,11 @@
 # Usage
 None
 
+# Environment
+**OS :** Mac OS Catalina
+
+**Unity version :** 2019.3.15f1
+
 # Rules
 ## ディレクトリ規則
  - ルートディレクトリ直下に要素は置かない（ディレクトリに格納する）
