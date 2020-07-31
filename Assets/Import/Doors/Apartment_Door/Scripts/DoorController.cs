@@ -37,16 +37,6 @@ public class DoorController : MonoBehaviour
 
         doorAnim = transform.parent.gameObject.GetComponent<Animation>();
         doorCollider = transform.parent.gameObject.GetComponent<BoxCollider>();
-<<<<<<< HEAD
-=======
-
-        //If Key is needed and the KeyGameObject is not assigned, stop playing and throw error
-        if (keyNeeded && keyGameObject == null)
-        {
-            UnityEditor.EditorApplication.isPlaying = false;
-            Debug.LogError("Assign Key GameObject");
-        }
->>>>>>> f00aeff2133a3a846b91fd4a87fee47c0f5eccc2
     }
 
     private void OnTriggerEnter(Collider other)
