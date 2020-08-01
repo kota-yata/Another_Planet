@@ -1,0 +1,4 @@
+*.unityweb filter=lfs diff=lfs merge=lfs -text
+docs/Build/docs.data.unityweb filter=lfs diff=lfs merge=lfs -text
+docs.data.unityweb filter=lfs diff=lfs merge=lfs -text
+KotaYatagai.unitypackage filter=lfs diff=lfs merge=lfs -text
