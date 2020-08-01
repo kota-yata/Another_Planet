@@ -1,5 +1,5 @@
 # Another_Planet
-3D Third person game on Unity
+3D Third person game on browser
 
 # Usage
 None
